@@ -1,1 +1,1 @@
-"# Just Try Github " 
+"# Just Try Github. " 
